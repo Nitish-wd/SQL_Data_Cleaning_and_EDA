@@ -92,12 +92,12 @@ SQL-Data-Cleaning-and-EDA/
 
 # 📁 Files Included
 
-### - [layoffs(1).csv](dataset/layoffs(1).csv)
+### [layoffs(1).csv](dataset/layoffs(1).csv)
 
 
 The original raw dataset used for this project.
 
-### - [Cleaned_Layoffs_Dataset.csv](dataset/Cleaned_Layoffs_Dataset)
+###  [Cleaned_Layoffs_Dataset.csv](dataset/Cleaned_Layoffs_Dataset)
 
 The cleaned and transformed dataset generated after completing the data cleaning process.
 
