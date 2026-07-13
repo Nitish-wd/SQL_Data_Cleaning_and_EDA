@@ -92,7 +92,7 @@ SQL-Data-Cleaning-and-EDA/
 
 # 📁 Files Included
 
-### 📄 layoffs_raw.csv
+### 📄 layoffs(1).csv
 
 The original raw dataset used for this project.
 
@@ -100,15 +100,11 @@ The original raw dataset used for this project.
 
 The cleaned and transformed dataset generated after completing the data cleaning process.
 
-### 📄 01_Create_Database.sql
+### 📄 Data Cleaning.sql
 
-SQL script used to create the database and import the dataset.
+SQL script used to create the database and import the dataset and Contains all SQL queries used for cleaning and transforming the dataset.
 
-### 📄 02_Data_Cleaning.sql
-
-Contains all SQL queries used for cleaning and transforming the dataset.
-
-### 📄 03_EDA.sql
+### 📄 EDA_SQL.sql
 
 Contains SQL queries used to perform exploratory data analysis and generate business insights.
 
